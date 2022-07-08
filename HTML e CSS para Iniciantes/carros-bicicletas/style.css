@@ -1,0 +1,41 @@
+body {
+  font-family: Arial;
+  margin: 50px;
+  padding: 0px;
+}
+
+h1 {
+  text-align: center;
+  margin: 40px;
+}
+
+h2 {
+  color: #ffffff;
+  margin: 0;
+}
+
+.item {
+  background-color: #111;
+
+  margin: 20px;
+  padding: 30px;
+  border-radius: 4px;
+}
+
+p {
+  margin-top: 10px;
+  color: #b2b2b2;
+}
+
+span {
+  color: #febe01;
+}
+
+a {
+  display: inline-block;
+  background-color: #febe01;
+  color: #332200;
+  border-radius: 4px;
+  padding: 10px;
+  text-decoration: none;
+}
